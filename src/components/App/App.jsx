@@ -5,8 +5,7 @@ import Notification from '../Notification';
 import Section from '../Section';
 import { Container } from './App.styled';
 
-// хуки
-
+// fjgvjtbhtg
 export class App extends Component {
   
   state = {
